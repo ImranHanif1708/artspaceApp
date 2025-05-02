@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <!-- Locations -->
+    <string name="tomb_jahangir">Tomb of Jahangir in Lahore</string>
+    <string name="tomb_dai_anga">Tomb of Dai Anga in Lahore</string>
+    <string name="tomb_bibi_jawindi">Tomb of Bibi Jawindi in Uch Sharif</string>
+    <string name="derawar_fort">Derawar Fort in Bahawalpur</string>
+    <string name="faisal_mosque">Faisal Mosque in Islamabad</string>
+    <string name="lahore_fort">Lahore Fort in Lahore</string>
+    <string name="pakistan_monument">Pakistan Monument in Islamabad</string>
+    <string name="wazir_khan_mosque">Wazir Khan Mosque in Lahore</string>
+    <string name="noor_mahal">Noor Mahal in Bahawalpur</string>
+    <string name="shah_jahan_mosque">Shah Jahan Mosque in Thatta</string>
+
+    <!-- Photographers -->
+    <string name="photographer_sohaib">Photographed by Sohaib Tahir</string>
+    <string name="photographer_ashar">Photographed by Muhammad Ashar</string>
+    <string name="photographer_shah_zaman">Photographed by Shah Zaman Baloch</string>
+    <string name="photographer_ali_mir">Photographed by Ali Mir</string>
+    <string name="photographer_ali_mujtaba">Photographed by Ali Mujtaba</string>
+    <string name="photographer_rohaan">Photographed by Rohaan Bhatti</string>
+    <string name="photographer_baqi">Photographed by Abdul Baqi</string>
+    <string name="photographer_shagufta">Photographed by Shagufta Karim</string>
+    <string name="photographer_ovais">Photographed by Ovais Waraich</string>
+
+    <!-- Descriptions -->
+
+    <string name="tomb_jahangir_desc">A magnificent 17th-century mausoleum of Mughal Emperor Jahangir, known for its intricate pietra dura and serene gardens. </string>
+    <string name="tomb_bibi_jawindi_desc">An iconic 15th-century Sufi shrine with rich blue tile work, reflecting the spiritual legacy of southern Punjab. </string>
+    <string name="derawar_fort_desc">A majestic desert fortress with 40 towering bastions, standing as a symbol of royal Rajput architecture in Cholistan. </string>
+    <string name="faisal_mosque_desc">A modern architectural marvel and one of the largest mosques in the world, nestled against the Margalla Hills. </string>
+    <string name="lahore_fort_desc">A UNESCO World Heritage Site, this fort is a testament to the grandeur of the Mughal empire with its palaces and pavilions. </string>
+    <string name="pakistan_monument_desc">Shaped like a blooming flower, this national symbol honors the sacrifices behind Pakistan’s independence. </string>
+    <string name="wazir_khan_mosque_desc">Famed for its vibrant frescoes and Persian-style tile work, this 17th-century mosque is a masterpiece of Mughal artistry. </string>
+    <string name="noor_mahal_desc">An exquisite Italian-style palace from the 19th century, reflecting the opulence of the Nawabs of Bahawalpur. </string>
+    <string name="shah_jahan_mosque_desc">Built during the Mughal era, this mosque is known for its geometric brick patterns and flawless acoustics. </string>
+    <string name="tomb_dai_anga_desc">A lesser-known gem from the Mughal era, built in memory of the emperor\'s wet
+        nurse, showcasing delicate tile work and heritage charm.
+    </string>
+</resources>
